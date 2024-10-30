@@ -1,0 +1,13 @@
+```
+svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="150" viewBox="0 0 500 150" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Ícone do rosto -->
+    <rect x="100" y="50" width="300" height="50" rx="25" fill="#FF69B4"/>
+    <path d="M150 75 L200 75 L200 100 L150 100 Z" fill="#000000"/>
+    <path d="M250 75 L300 75 L300 100 L250 100 Z" fill="#000000"/>
+    
+    <!-- Texto "Arte de Seu Rosto" -->
+    <text x="50" y="120" font-family="Open Sans" font-size="24" fill="#FF69B4">Arte de Seu Rosto</text>
+</svg>
+```
